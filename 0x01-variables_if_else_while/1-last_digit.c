@@ -4,15 +4,10 @@
 
 #include<stdio.h>
 
-
-
 /**
- *
- *  * main - determine if random number is 0,greater than 5 or less than 6
- *
- *   * Return: always 0
- *
- *    */
+ * main - determine if random number is 0,greater than 5 or less than 6
+ * Return: always 0
+ */
 
 int main(void)
 
